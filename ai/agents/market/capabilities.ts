@@ -1,0 +1,2 @@
+export const MARKET_AGENT_CAPABILITIES =
+`The Market Agent can get the current trending tokens, get the top holders of a token, get the bubble map of a token (which shows the distribution of holders of the token), and get the token data (current price, volume, and market cap of a token).`;
